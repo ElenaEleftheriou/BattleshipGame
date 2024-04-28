@@ -1,5 +1,3 @@
-package eeleft01.hw2;
-
 /**
  * This object creates a player that has 5 different ships, using {@link Ships},
  * in order to be able to play the game.
