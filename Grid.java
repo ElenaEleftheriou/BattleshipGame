@@ -1,5 +1,3 @@
-package eeleft01.hw2;
-
 /**
  * This class sets the board that the players will play later on.The class
  * {@link Ships} inherits from this class.
