@@ -1,5 +1,3 @@
-package eeleft01.hw2;
-
 /**
  * This object creates the ships that are required for each player to be able to
  * play the game. It inherits from {@link Grid}.
